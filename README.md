@@ -4,14 +4,14 @@
   
  ---
 
-<img src="/img/javascript.png" width="20" height="20"> 
+
 ### Languages:
 
 #### - Java
 #### - C#
 #### - C++
 #### - C
-#### - JavaScript
+#### - JavaScript <img src="/img/javascript.png" width="20" height="20"> 
 #### - HTML
 #### - Python
 #### - PHP
