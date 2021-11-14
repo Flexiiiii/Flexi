@@ -4,7 +4,7 @@
   
  ---
 
-![This is an image](https://github.com/Flexiiiii/Flexi/img/win10.png)
+![This is an image](https://github.com/Flexiiiii/Flexi/tree/main/img/win10.png)
 ### Languages:
 
 #### - Java
