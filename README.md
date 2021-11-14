@@ -4,7 +4,7 @@
   
  ---
 
-![JavaScript](/img/javascript.png =20x20)
+<img src="/img/javascript.png" width="20" height="20"> 
 ### Languages:
 
 #### - Java
