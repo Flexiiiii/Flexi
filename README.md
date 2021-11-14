@@ -11,7 +11,7 @@
 #### - C#
 #### - C++
 #### - C
-#### - JavaScript <img src="/img/javascript.png" width="20" height="20"> 
+#### - <img src="/img/javascript.png" width="15" height="15"> JavaScript
 #### - HTML
 #### - Python
 #### - PHP
